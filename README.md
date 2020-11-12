@@ -1,3 +1,10 @@
+### NU Bootcamp Assignment for usting Plot.ly for building an Interactive Dashboard.
+
+See Interactive Dashboard deployed at: https://elainecheung.github.io/plotly_homework/
+
+
+## Homework Instructions
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
